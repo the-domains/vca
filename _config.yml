@@ -1,7 +1,7 @@
 name: vca
 favicon: null
 layout_spectrum: 0.8909096682909876
-typography_spectrum: 0.03902737656608224
+typography_spectrum: 0.24929
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7166336192749441
+    - '#ffffff'
+    - '#010103'
+    - '#f90e1d'
+    - '#888888'
+    - '#fb76e5'
+  brandStrength: 0.3125
   lightness: 0.8321130443364382
   saturation: 0.09616881492547691
   rhythmicContrast: 0.009764611953869462
